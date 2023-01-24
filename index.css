@@ -161,3 +161,8 @@ main {
 .creation div span {
   color: white;
 }
+
+.creation div span:hover {
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
+}
