@@ -95,3 +95,34 @@ main {
   color: #7f94b2;
   margin-bottom: 1rem;
 }
+
+.info {
+  display: flex;
+  justify-content: space-between;
+
+  margin-bottom: 1rem;
+}
+
+.info div {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.info div:nth-of-type(1) span {
+  color: hsl(178, 100%, 50%);
+  font-size: 1rem;
+
+  margin-left: 0.4rem;
+
+  font-weight: 600;
+}
+
+.info div:nth-of-type(2) span {
+  color: #7f94b2;
+  font-size: 1rem;
+
+  margin-left: 0.4rem;
+
+  font-weight: 600;
+}
