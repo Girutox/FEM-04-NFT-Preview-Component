@@ -57,6 +57,8 @@ body {
   align-items: center;
 
   background-color: hsl(217, 54%, 11%);
+
+  font-family: 'Outfit', sans-serif;
 }
 
 main {
