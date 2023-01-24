@@ -126,3 +126,8 @@ main {
 
   font-weight: 600;
 }
+
+.card hr {
+  border: none;
+  border-top: 2px solid hsl(215, 32%, 27%);
+}
