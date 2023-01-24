@@ -60,5 +60,17 @@ body {
 }
 
 main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
   flex-grow: 1;
+}
+
+.card {
+  background-color: hsl(216, 50%, 16%);
+  width: 350px;
+  height: 600px;
+
+  border-radius: 17px;
 }
