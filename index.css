@@ -90,3 +90,8 @@ main {
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
+
+.card p {
+  color: #7f94b2;
+  margin-bottom: 1rem;
+}
